@@ -10,3 +10,14 @@ The EcoTracker backend is a Go-based REST API that powers the EcoTracker mobile 
 - Admin operations (e.g., managing activities, badges, campaigns)
 
 Data is stored in PostgreSQL with the pgvector extension to support embedding-based queries (e.g., recommendations / semantic search later on).
+
+==============================================================================================================================================
+Tech Stack
+
+- Language: Go (Golang)
+
+- Database: PostgreSQL + pgvector
+
+- Containerization: Docker / Docker Compose
+
+- Config: Environment variables (.env)
