@@ -31,3 +31,4 @@ Make sure you have:
 
 - git for cloning the repo
 
+The smoke file is just some basic sanity tests for the system.
